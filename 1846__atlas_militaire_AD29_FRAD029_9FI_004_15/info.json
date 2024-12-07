@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 188,
+    "height" : 116
+  }, {
+    "width" : 375,
+    "height" : 232
+  }, {
+    "width" : 750,
+    "height" : 464
+  }, {
+    "width" : 1500,
+    "height" : 928
+  }, {
+    "width" : 3000,
+    "height" : 1855
+  }, {
+    "width" : 6000,
+    "height" : 3709
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 6000,
+  "@id" : "http://localhost:8887/iiif/1846__atlas_militaire_AD29_FRAD029_9FI_004_15",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3709
+}
