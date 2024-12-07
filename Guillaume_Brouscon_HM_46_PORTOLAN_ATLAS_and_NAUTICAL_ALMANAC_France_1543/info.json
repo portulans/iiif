@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 266,
+    "height" : 248
+  }, {
+    "width" : 532,
+    "height" : 496
+  }, {
+    "width" : 1063,
+    "height" : 991
+  }, {
+    "width" : 2125,
+    "height" : 1981
+  }, {
+    "width" : 4249,
+    "height" : 3962
+  }, {
+    "width" : 8497,
+    "height" : 7924
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 8497,
+  "@id" : "http://localhost:8887/iiif/Guillaume_Brouscon_HM_46_PORTOLAN_ATLAS_and_NAUTICAL_ALMANAC_France_1543",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 7924
+}
