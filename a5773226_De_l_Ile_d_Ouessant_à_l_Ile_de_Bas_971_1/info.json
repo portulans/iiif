@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 193,
+    "height" : 137
+  }, {
+    "width" : 386,
+    "height" : 274
+  }, {
+    "width" : 772,
+    "height" : 548
+  }, {
+    "width" : 1543,
+    "height" : 1096
+  }, {
+    "width" : 3085,
+    "height" : 2192
+  }, {
+    "width" : 6169,
+    "height" : 4383
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 6169,
+  "@id" : "http://localhost:8887/iiif/a5773226_De_l_Ile_d_Ouessant_à_l_Ile_de_Bas_971_1",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4383
+}

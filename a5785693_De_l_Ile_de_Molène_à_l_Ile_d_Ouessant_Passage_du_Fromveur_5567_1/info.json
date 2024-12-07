@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 629,
+    "height" : 438
+  }, {
+    "width" : 1257,
+    "height" : 876
+  }, {
+    "width" : 2513,
+    "height" : 1751
+  }, {
+    "width" : 5025,
+    "height" : 3501
+  }, {
+    "width" : 10050,
+    "height" : 7001
+  }, {
+    "width" : 20100,
+    "height" : 14002
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 20100,
+  "@id" : "http://localhost:8887/iiif/a5785693_De_l_Ile_de_Molène_à_l_Ile_d_Ouessant_Passage_du_Fromveur_5567_1",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 14002
+}

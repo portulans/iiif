@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 629,
+    "height" : 438
+  }, {
+    "width" : 1257,
+    "height" : 876
+  }, {
+    "width" : 2514,
+    "height" : 1751
+  }, {
+    "width" : 5027,
+    "height" : 3501
+  }, {
+    "width" : 10053,
+    "height" : 7002
+  }, {
+    "width" : 20106,
+    "height" : 14004
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 20106,
+  "@id" : "http://localhost:8887/iiif/a5783171_De_Porsal_à_la_Pte",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 14004
+}
