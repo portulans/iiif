@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 226,
+    "height" : 166
+  }, {
+    "width" : 452,
+    "height" : 331
+  }, {
+    "width" : 904,
+    "height" : 661
+  }, {
+    "width" : 1807,
+    "height" : 1322
+  }, {
+    "width" : 3613,
+    "height" : 2643
+  }, {
+    "width" : 7226,
+    "height" : 5286
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 7226,
+  "@id" : "http://localhost:8887/iiif/1929__Carte-touristique-Ouessant",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 5286
+}
