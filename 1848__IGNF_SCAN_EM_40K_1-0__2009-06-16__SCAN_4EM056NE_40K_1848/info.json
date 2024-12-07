@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 746,
+    "height" : 453
+  }, {
+    "width" : 1492,
+    "height" : 906
+  }, {
+    "width" : 2983,
+    "height" : 1811
+  }, {
+    "width" : 5965,
+    "height" : 3621
+  }, {
+    "width" : 11929,
+    "height" : 7241
+  }, {
+    "width" : 23858,
+    "height" : 14481
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 23858,
+  "@id" : "http://localhost:8887/iiif/1848__IGNF_SCAN_EM_40K_1-0__2009-06-16__SCAN_4EM056NE_40K_1848",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 14481
+}
