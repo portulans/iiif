@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 402,
+    "height" : 280
+  }, {
+    "width" : 803,
+    "height" : 559
+  }, {
+    "width" : 1605,
+    "height" : 1117
+  }, {
+    "width" : 3210,
+    "height" : 2234
+  }, {
+    "width" : 6420,
+    "height" : 4468
+  }, {
+    "width" : 12840,
+    "height" : 8936
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 12840,
+  "@id" : "http://localhost:8887/iiif/1892__carte_marine_estignard_B335222107_17_12_04_10_001",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 8936
+}

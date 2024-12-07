@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 613,
+    "height" : 417
+  }, {
+    "width" : 1225,
+    "height" : 833
+  }, {
+    "width" : 2449,
+    "height" : 1665
+  }, {
+    "width" : 4897,
+    "height" : 3329
+  }, {
+    "width" : 9793,
+    "height" : 6658
+  }, {
+    "width" : 19585,
+    "height" : 13315
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 19585,
+  "@id" : "http://localhost:8887/iiif/a5777813_Carte_Particulière_des_Côtes_de_France_chenal_du_Four_et_environs_de_l_ile_d_Ouessant_3473_1",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 13315
+}
