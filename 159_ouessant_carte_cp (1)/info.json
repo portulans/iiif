@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 49,
+    "height" : 35
+  }, {
+    "width" : 97,
+    "height" : 69
+  }, {
+    "width" : 194,
+    "height" : 137
+  }, {
+    "width" : 388,
+    "height" : 273
+  }, {
+    "width" : 775,
+    "height" : 546
+  }, {
+    "width" : 1550,
+    "height" : 1091
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1550,
+  "@id" : "http://localhost:8887/iiif/159_ouessant_carte_cp (1)",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1091
+}

@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 50,
+    "height" : 36
+  }, {
+    "width" : 100,
+    "height" : 71
+  }, {
+    "width" : 199,
+    "height" : 142
+  }, {
+    "width" : 398,
+    "height" : 283
+  }, {
+    "width" : 795,
+    "height" : 566
+  }, {
+    "width" : 1590,
+    "height" : 1131
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1590,
+  "@id" : "http://localhost:8887/iiif/161_d_apres_michelin_recto",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1131
+}

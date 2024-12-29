@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 51,
+    "height" : 35
+  }, {
+    "width" : 101,
+    "height" : 70
+  }, {
+    "width" : 201,
+    "height" : 139
+  }, {
+    "width" : 401,
+    "height" : 278
+  }, {
+    "width" : 801,
+    "height" : 555
+  }, {
+    "width" : 1602,
+    "height" : 1110
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1602,
+  "@id" : "http://localhost:8887/iiif/145_ouessant_carte_cp_yca (1)",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1110
+}
