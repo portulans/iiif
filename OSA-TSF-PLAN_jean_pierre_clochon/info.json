@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 34,
+    "height" : 25
+  }, {
+    "width" : 68,
+    "height" : 49
+  }, {
+    "width" : 136,
+    "height" : 97
+  }, {
+    "width" : 271,
+    "height" : 194
+  }, {
+    "width" : 542,
+    "height" : 387
+  }, {
+    "width" : 1084,
+    "height" : 774
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1084,
+  "@id" : "http://localhost:8887/iiif/OSA-TSF-PLAN_jean_pierre_clochon",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 774
+}
