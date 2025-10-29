@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 176,
+    "height" : 239
+  }, {
+    "width" : 352,
+    "height" : 478
+  }, {
+    "width" : 703,
+    "height" : 956
+  }, {
+    "width" : 1406,
+    "height" : 1911
+  }, {
+    "width" : 2811,
+    "height" : 3822
+  }, {
+    "width" : 5622,
+    "height" : 7643
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 5622,
+  "@id" : "http://localhost:8887/iiif/1888_Maisons_Stiff_FRAD029_5K_110_01_01",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 7643
+}
