@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 85,
+    "height" : 110
+  }, {
+    "width" : 170,
+    "height" : 220
+  }, {
+    "width" : 339,
+    "height" : 439
+  }, {
+    "width" : 677,
+    "height" : 878
+  }, {
+    "width" : 1353,
+    "height" : 1755
+  }, {
+    "width" : 2706,
+    "height" : 3510
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2706,
+  "@id" : "http://localhost:8887/iiif/Deminage_Allemand/FRAD029_2264W_007_01_010",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3510
+}

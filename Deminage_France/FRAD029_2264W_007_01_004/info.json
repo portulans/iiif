@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 162,
+    "height" : 125
+  }, {
+    "width" : 324,
+    "height" : 250
+  }, {
+    "width" : 648,
+    "height" : 499
+  }, {
+    "width" : 1296,
+    "height" : 998
+  }, {
+    "width" : 2592,
+    "height" : 1995
+  }, {
+    "width" : 5183,
+    "height" : 3989
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 5183,
+  "@id" : "http://localhost:8887/iiif/Deminage_France/FRAD029_2264W_007_01_004",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3989
+}
