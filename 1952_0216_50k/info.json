@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 277,
+    "height" : 210
+  }, {
+    "width" : 554,
+    "height" : 419
+  }, {
+    "width" : 1108,
+    "height" : 837
+  }, {
+    "width" : 2215,
+    "height" : 1673
+  }, {
+    "width" : 4430,
+    "height" : 3346
+  }, {
+    "width" : 8859,
+    "height" : 6691
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 8859,
+  "@id" : "https://portulans.github.io/iiif/1952_0216_50k",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 6691
+}

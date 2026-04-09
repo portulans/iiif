@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 76,
+    "height" : 52
+  }, {
+    "width" : 151,
+    "height" : 103
+  }, {
+    "width" : 302,
+    "height" : 205
+  }, {
+    "width" : 603,
+    "height" : 409
+  }, {
+    "width" : 1206,
+    "height" : 817
+  }, {
+    "width" : 2412,
+    "height" : 1633
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2412,
+  "@id" : "http://localhost:8887/iiif/FRAD029_25S_0029_001",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1633
+}

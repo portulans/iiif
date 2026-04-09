@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 1084,
-  "@id" : "http://localhost:8887/iiif/OSA-TSF-PLAN_jean_pierre_clochon",
+  "@id" : "https://portulans.github.io/iiif/OSA-TSF-PLAN_jean_pierre_clochon",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 774
 }
