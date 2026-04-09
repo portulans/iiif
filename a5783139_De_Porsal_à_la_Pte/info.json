@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 20152,
-  "@id" : "https://portulans.github.io/iiif/a5783139_De_Porsal_�_la_Pte",
+  "@id" : "https://portulans.github.io/iiif/a5783139_De_Porsal_à_la_Pte",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 13760
 }

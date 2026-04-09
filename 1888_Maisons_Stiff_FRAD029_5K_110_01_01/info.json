@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 5622,
-  "@id" : "http://localhost:8887/iiif/1888_Maisons_Stiff_FRAD029_5K_110_01_01",
+  "@id" : "https://portulans.github.io/iiif/1888_Maisons_Stiff_FRAD029_5K_110_01_01",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 7643
 }
