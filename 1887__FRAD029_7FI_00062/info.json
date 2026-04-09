@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 3370,
-  "@id" : "http://localhost:8887/iiif/1887__FRAD029_7FI_00062",
+  "@id" : "https://portulans.github.io/iiif/1887__FRAD029_7FI_00062",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 2694
 }

@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 8497,
-  "@id" : "http://localhost:8887/iiif/Guillaume_Brouscon_HM_46_PORTOLAN_ATLAS_and_NAUTICAL_ALMANAC_France_1543",
+  "@id" : "https://portulans.github.io/iiif/Guillaume_Brouscon_HM_46_PORTOLAN_ATLAS_and_NAUTICAL_ALMANAC_France_1543",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 7924
 }

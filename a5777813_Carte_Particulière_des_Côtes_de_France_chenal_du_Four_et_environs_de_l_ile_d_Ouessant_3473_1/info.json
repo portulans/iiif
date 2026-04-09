@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 19585,
-  "@id" : "http://localhost:8887/iiif/a5777813_Carte_Particulière_des_Côtes_de_France_chenal_du_Four_et_environs_de_l_ile_d_Ouessant_3473_1",
+  "@id" : "https://portulans.github.io/iiif/a5777813_Carte_ParticuliÃ¨re_des_CÃ´tes_de_France_chenal_du_Four_et_environs_de_l_ile_d_Ouessant_3473_1",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 13315
 }

@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 2706,
-  "@id" : "http://localhost:8887/iiif/Deminage_Allemand/FRAD029_2264W_007_01_010",
+  "@id" : "https://portulans.github.io/iiif/Deminage_Allemand/FRAD029_2264W_007_01_010",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 3510
 }

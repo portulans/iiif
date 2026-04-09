@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 12840,
-  "@id" : "http://localhost:8887/iiif/1892__carte_marine_estignard_B335222107_17_12_04_10_001",
+  "@id" : "https://portulans.github.io/iiif/1892__carte_marine_estignard_B335222107_17_12_04_10_001",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 8936
 }

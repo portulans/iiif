@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 6330,
-  "@id" : "http://localhost:8887/iiif/a5785810_De_l_Ile_de_Molène_à_l_Ile_d_Ouessant_Passage_du_Fromveur_5567_1",
+  "@id" : "https://portulans.github.io/iiif/a5785810_De_l_Ile_de_MolÃ¨ne_Ã _l_Ile_d_Ouessant_Passage_du_Fromveur_5567_1",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 4591
 }
