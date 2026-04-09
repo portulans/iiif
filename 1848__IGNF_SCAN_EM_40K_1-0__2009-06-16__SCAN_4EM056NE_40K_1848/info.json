@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 23858,
-  "@id" : "http://localhost:8887/iiif/1848__IGNF_SCAN_EM_40K_1-0__2009-06-16__SCAN_4EM056NE_40K_1848",
+  "@id" : "https://portulans.github.io/iiif/1848__IGNF_SCAN_EM_40K_1-0__2009-06-16__SCAN_4EM056NE_40K_1848",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 14481
 }

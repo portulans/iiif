@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 6000,
-  "@id" : "http://localhost:8887/iiif/1846__atlas_militaire_AD29_FRAD029_9FI_004_15",
+  "@id" : "https://portulans.github.io/iiif/1846__atlas_militaire_AD29_FRAD029_9FI_004_15",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 3709
 }

@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 1578,
-  "@id" : "http://localhost:8887/iiif/143_ouessant_carte_cp_artaud_2 (1)",
+  "@id" : "https://portulans.github.io/iiif/143_ouessant_carte_cp_artaud_2 (1)",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 1108
 }

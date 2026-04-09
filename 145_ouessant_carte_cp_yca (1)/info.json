@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 1602,
-  "@id" : "http://localhost:8887/iiif/145_ouessant_carte_cp_yca (1)",
+  "@id" : "https://portulans.github.io/iiif/145_ouessant_carte_cp_yca (1)",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 1110
 }

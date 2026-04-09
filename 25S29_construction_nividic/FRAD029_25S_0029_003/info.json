@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 2384,
-  "@id" : "http://localhost:8887/iiif/FRAD029_25S_0029_003",
+  "@id" : "https://portulans.github.io/iiif/25S29_construction_nividic/iiif/FRAD029_25S_0029_003",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 1717
 }

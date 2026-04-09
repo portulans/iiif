@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 1590,
-  "@id" : "http://localhost:8887/iiif/161_d_apres_michelin_recto",
+  "@id" : "https://portulans.github.io/iiif/161_d_apres_michelin_recto",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 1108
 }
