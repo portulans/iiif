@@ -1,0 +1,371 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/588eb5x9soa-mnsp599h",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plan d'ensemble de 1910"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://example.org/588eb5x9soa-mnsp599h/canvas/e7d1dn0pb7c-mnt44y9a",
+      "type": "Canvas",
+      "height": 8119,
+      "width": 5670,
+      "label": {
+        "en": [
+          "02167D_10k_1910"
+        ]
+      },
+      "rights": "Cartothèque de l'IGN",
+      "thumbnail": [
+        {
+          "id": "https://portulans.github.io/iiif/1910_Plan_d_ensemble_10000e_IGN/02167D_10k_1910/full/355,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 508,
+          "width": 355
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/588eb5x9soa-mnsp599h/canvas/e7d1dn0pb7c-mnt44y9a/annotation-page/z5v80osh3r-mnt44y9a",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/588eb5x9soa-mnsp599h/annotation/8p4qx2040l2-mnt44y99",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/588eb5x9soa-mnsp599h/canvas/e7d1dn0pb7c-mnt44y9a",
+              "body": {
+                "id": "https://portulans.github.io/iiif/1910_Plan_d_ensemble_10000e_IGN/02167D_10k_1910/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 8119,
+                "width": 5670,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 178,
+                        "height": 254
+                      },
+                      {
+                        "width": 355,
+                        "height": 508
+                      },
+                      {
+                        "width": 709,
+                        "height": 1015
+                      },
+                      {
+                        "width": 1418,
+                        "height": 2030
+                      },
+                      {
+                        "width": 2835,
+                        "height": 4060
+                      },
+                      {
+                        "width": 5670,
+                        "height": 8119
+                      }
+                    ],
+                    "profile": "http://iiif.io/api/image/2/level0.json",
+                    "width": 5670,
+                    "@id": "https://portulans.github.io/iiif/1910_Plan_d_ensemble_10000e_IGN/02167D_10k_1910",
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "height": 8119
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/588eb5x9soa-mnsp599h/canvas/exxna4g91es-mnt3zlgr",
+      "type": "Canvas",
+      "height": 8213,
+      "width": 10630,
+      "label": {
+        "en": [
+          "02168AB_10k_1910"
+        ]
+      },
+      "rights": "Cartothèque de l'IGN",
+      "thumbnail": [
+        {
+          "id": "https://portulans.github.io/iiif/1910_Plan_d_ensemble_10000e_IGN/02168AB_10k_1910/full/333,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 257,
+          "width": 333
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/588eb5x9soa-mnsp599h/canvas/exxna4g91es-mnt3zlgr/annotation-page/87450dsikpr-mnt3zlgr",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/588eb5x9soa-mnsp599h/annotation/3lhivyvgv11-mnt3zlgq",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/588eb5x9soa-mnsp599h/canvas/exxna4g91es-mnt3zlgr",
+              "body": {
+                "id": "https://portulans.github.io/iiif/1910_Plan_d_ensemble_10000e_IGN/02168AB_10k_1910/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 8213,
+                "width": 10630,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 333,
+                        "height": 257
+                      },
+                      {
+                        "width": 665,
+                        "height": 514
+                      },
+                      {
+                        "width": 1329,
+                        "height": 1027
+                      },
+                      {
+                        "width": 2658,
+                        "height": 2054
+                      },
+                      {
+                        "width": 5315,
+                        "height": 4107
+                      },
+                      {
+                        "width": 10630,
+                        "height": 8213
+                      }
+                    ],
+                    "profile": "http://iiif.io/api/image/2/level0.json",
+                    "width": 10630,
+                    "@id": "https://portulans.github.io/iiif/1910_Plan_d_ensemble_10000e_IGN/02168AB_10k_1910",
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "height": 8213
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/588eb5x9soa-mnsp599h/canvas/ylktg9j8pq-mnspr6tc",
+      "type": "Canvas",
+      "height": 8199,
+      "width": 10630,
+      "label": {
+        "en": [
+          "02168CD_10k_1910"
+        ]
+      },
+      "rights": "Cartothèque de l'IGN",
+      "items": [
+        {
+          "id": "https://example.org/588eb5x9soa-mnsp599h/canvas/ylktg9j8pq-mnspr6tc/annotation-page/7ohletjb3cb-mnspr6tc",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/588eb5x9soa-mnsp599h/canvas/ylktg9j8pq-mnspr6tc/annotation-page/7ohletjb3cb-mnspr6tc/annotation/5k3ptmosfob-mnt40vjz",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/588eb5x9soa-mnsp599h/canvas/ylktg9j8pq-mnspr6tc",
+              "body": {
+                "id": "https://portulans.github.io/iiif/1910_Plan_d_ensemble_10000e_IGN/02168CD_10k_1910/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 8199,
+                "width": 10630,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 333,
+                        "height": 257
+                      },
+                      {
+                        "width": 665,
+                        "height": 513
+                      },
+                      {
+                        "width": 1329,
+                        "height": 1025
+                      },
+                      {
+                        "width": 2658,
+                        "height": 2050
+                      },
+                      {
+                        "width": 5315,
+                        "height": 4100
+                      },
+                      {
+                        "width": 10630,
+                        "height": 8199
+                      }
+                    ],
+                    "profile": "http://iiif.io/api/image/2/level0.json",
+                    "width": 10630,
+                    "@id": "https://portulans.github.io/iiif/1910_Plan_d_ensemble_10000e_IGN/02168CD_10k_1910",
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "height": 8199
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/588eb5x9soa-mnsp599h/canvas/5a7y8mgcrp6-mnt41hpt",
+      "type": "Canvas",
+      "height": 8178,
+      "width": 10630,
+      "label": {
+        "en": [
+          "03165CD_10k_1910"
+        ]
+      },
+      "rights": "Cartothèque de l'IGN",
+      "thumbnail": [
+        {
+          "id": "https://portulans.github.io/iiif/1910_Plan_d_ensemble_10000e_IGN/03165CD_10k_1910/full/333,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 256,
+          "width": 333
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/588eb5x9soa-mnsp599h/canvas/5a7y8mgcrp6-mnt41hpt/annotation-page/zaoo3uu7oyk-mnt41hpt",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/588eb5x9soa-mnsp599h/annotation/un028wuky3-mnt41hps",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/588eb5x9soa-mnsp599h/canvas/5a7y8mgcrp6-mnt41hpt",
+              "body": {
+                "id": "https://portulans.github.io/iiif/1910_Plan_d_ensemble_10000e_IGN/03165CD_10k_1910/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 8178,
+                "width": 10630,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 333,
+                        "height": 256
+                      },
+                      {
+                        "width": 665,
+                        "height": 512
+                      },
+                      {
+                        "width": 1329,
+                        "height": 1023
+                      },
+                      {
+                        "width": 2658,
+                        "height": 2045
+                      },
+                      {
+                        "width": 5315,
+                        "height": 4089
+                      },
+                      {
+                        "width": 10630,
+                        "height": 8178
+                      }
+                    ],
+                    "profile": "http://iiif.io/api/image/2/level0.json",
+                    "width": 10630,
+                    "@id": "https://portulans.github.io/iiif/1910_Plan_d_ensemble_10000e_IGN/03165CD_10k_1910",
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "height": 8178
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
