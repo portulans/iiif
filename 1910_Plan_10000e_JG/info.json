@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 325,
+    "height" : 220
+  }, {
+    "width" : 650,
+    "height" : 440
+  }, {
+    "width" : 1300,
+    "height" : 880
+  }, {
+    "width" : 2599,
+    "height" : 1760
+  }, {
+    "width" : 5198,
+    "height" : 3520
+  }, {
+    "width" : 10396,
+    "height" : 7040
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 10396,
+  "@id" : "https://portulans.github.io/iiif/1910_Plan_10000e_JG",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 7040
+}

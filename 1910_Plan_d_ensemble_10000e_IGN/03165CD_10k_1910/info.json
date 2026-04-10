@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 333,
+    "height" : 256
+  }, {
+    "width" : 665,
+    "height" : 512
+  }, {
+    "width" : 1329,
+    "height" : 1023
+  }, {
+    "width" : 2658,
+    "height" : 2045
+  }, {
+    "width" : 5315,
+    "height" : 4089
+  }, {
+    "width" : 10630,
+    "height" : 8178
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 10630,
+  "@id" : "https://portulans.github.io/iiif/1910_Plan_d_ensemble_10000e_IGN/03165CD_10k_1910",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 8178
+}
