@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 198,
+    "height" : 132
+  }, {
+    "width" : 395,
+    "height" : 263
+  }, {
+    "width" : 789,
+    "height" : 526
+  }, {
+    "width" : 1578,
+    "height" : 1052
+  }, {
+    "width" : 3156,
+    "height" : 2104
+  }, {
+    "width" : 6312,
+    "height" : 4208
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 6312,
+  "@id" : "https://portulans.github.io/iiif/1580_Archives_Lorient_Lucas_Janszoon_Waghenaer",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4208
+}

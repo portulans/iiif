@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 67,
+    "height" : 94
+  }, {
+    "width" : 133,
+    "height" : 188
+  }, {
+    "width" : 266,
+    "height" : 375
+  }, {
+    "width" : 531,
+    "height" : 750
+  }, {
+    "width" : 1061,
+    "height" : 1500
+  }, {
+    "width" : 2122,
+    "height" : 3000
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2122,
+  "@id" : "https://portulans.github.io/iiif/1620_Michel_le_Nobletz",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3000
+}

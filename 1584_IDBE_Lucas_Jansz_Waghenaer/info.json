@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 78,
+    "height" : 54
+  }, {
+    "width" : 155,
+    "height" : 107
+  }, {
+    "width" : 310,
+    "height" : 213
+  }, {
+    "width" : 620,
+    "height" : 426
+  }, {
+    "width" : 1239,
+    "height" : 852
+  }, {
+    "width" : 2478,
+    "height" : 1703
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2478,
+  "@id" : "https://portulans.github.io/iiif/1584_IDBE_Lucas_Jansz_Waghenaer",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1703
+}

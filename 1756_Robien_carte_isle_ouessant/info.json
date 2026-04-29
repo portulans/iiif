@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 40,
+    "height" : 33
+  }, {
+    "width" : 80,
+    "height" : 65
+  }, {
+    "width" : 160,
+    "height" : 130
+  }, {
+    "width" : 320,
+    "height" : 259
+  }, {
+    "width" : 640,
+    "height" : 518
+  }, {
+    "width" : 1280,
+    "height" : 1035
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1280,
+  "@id" : "https://portulans.github.io/iiif/1756_Robien_carte_isle_ouessant",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1035
+}
