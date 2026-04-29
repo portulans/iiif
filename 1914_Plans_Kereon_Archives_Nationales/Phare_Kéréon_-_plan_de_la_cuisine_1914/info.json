@@ -1,0 +1,41 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 256, 128, 64, 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 61,
+    "height" : 19
+  }, {
+    "width" : 122,
+    "height" : 38
+  }, {
+    "width" : 243,
+    "height" : 75
+  }, {
+    "width" : 485,
+    "height" : 150
+  }, {
+    "width" : 970,
+    "height" : 299
+  }, {
+    "width" : 1939,
+    "height" : 598
+  }, {
+    "width" : 3878,
+    "height" : 1196
+  }, {
+    "width" : 7756,
+    "height" : 2392
+  }, {
+    "width" : 15512,
+    "height" : 4784
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 15512,
+  "@id" : "https://portulans.github.io/iiif/Phare_Kéréon_-_plan_de_la_cuisine_1914",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4784
+}

@@ -1,0 +1,41 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 256, 128, 64, 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 40,
+    "height" : 23
+  }, {
+    "width" : 80,
+    "height" : 45
+  }, {
+    "width" : 159,
+    "height" : 90
+  }, {
+    "width" : 318,
+    "height" : 179
+  }, {
+    "width" : 635,
+    "height" : 358
+  }, {
+    "width" : 1269,
+    "height" : 716
+  }, {
+    "width" : 2538,
+    "height" : 1431
+  }, {
+    "width" : 5076,
+    "height" : 2862
+  }, {
+    "width" : 10152,
+    "height" : 5724
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 10152,
+  "@id" : "https://portulans.github.io/iiif/Phare_Kéréon_-_plan_de_la_porte_d'entrée_1914",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 5724
+}

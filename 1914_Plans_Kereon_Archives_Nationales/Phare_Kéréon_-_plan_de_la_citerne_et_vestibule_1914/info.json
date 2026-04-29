@@ -1,0 +1,41 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 256, 128, 64, 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 93,
+    "height" : 13
+  }, {
+    "width" : 185,
+    "height" : 25
+  }, {
+    "width" : 369,
+    "height" : 50
+  }, {
+    "width" : 737,
+    "height" : 99
+  }, {
+    "width" : 1473,
+    "height" : 197
+  }, {
+    "width" : 2945,
+    "height" : 394
+  }, {
+    "width" : 5889,
+    "height" : 787
+  }, {
+    "width" : 11777,
+    "height" : 1574
+  }, {
+    "width" : 23554,
+    "height" : 3147
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 23554,
+  "@id" : "https://portulans.github.io/iiif/Phare_Kéréon_-_plan_de_la_citerne_et_vestibule_1914",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3147
+}

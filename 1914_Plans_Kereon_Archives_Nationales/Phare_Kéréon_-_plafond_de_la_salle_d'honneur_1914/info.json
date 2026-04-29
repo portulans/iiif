@@ -1,0 +1,41 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 256, 128, 64, 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 68,
+    "height" : 16
+  }, {
+    "width" : 135,
+    "height" : 32
+  }, {
+    "width" : 269,
+    "height" : 63
+  }, {
+    "width" : 537,
+    "height" : 126
+  }, {
+    "width" : 1074,
+    "height" : 251
+  }, {
+    "width" : 2148,
+    "height" : 502
+  }, {
+    "width" : 4295,
+    "height" : 1003
+  }, {
+    "width" : 8589,
+    "height" : 2005
+  }, {
+    "width" : 17177,
+    "height" : 4010
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 17177,
+  "@id" : "https://portulans.github.io/iiif/Phare_Kéréon_-_plafond_de_la_salle_d'honneur_1914",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4010
+}

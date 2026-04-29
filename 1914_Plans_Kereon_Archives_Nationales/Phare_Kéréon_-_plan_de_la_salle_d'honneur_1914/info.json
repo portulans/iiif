@@ -1,0 +1,41 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 256, 128, 64, 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 95,
+    "height" : 13
+  }, {
+    "width" : 190,
+    "height" : 26
+  }, {
+    "width" : 380,
+    "height" : 51
+  }, {
+    "width" : 760,
+    "height" : 101
+  }, {
+    "width" : 1520,
+    "height" : 201
+  }, {
+    "width" : 3039,
+    "height" : 402
+  }, {
+    "width" : 6077,
+    "height" : 803
+  }, {
+    "width" : 12154,
+    "height" : 1606
+  }, {
+    "width" : 24307,
+    "height" : 3212
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 24307,
+  "@id" : "https://portulans.github.io/iiif/Phare_Kéréon_-_plan_de_la_salle_d'honneur_1914",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3212
+}

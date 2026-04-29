@@ -1,0 +1,41 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 256, 128, 64, 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 66,
+    "height" : 19
+  }, {
+    "width" : 132,
+    "height" : 37
+  }, {
+    "width" : 264,
+    "height" : 73
+  }, {
+    "width" : 527,
+    "height" : 145
+  }, {
+    "width" : 1053,
+    "height" : 290
+  }, {
+    "width" : 2105,
+    "height" : 579
+  }, {
+    "width" : 4209,
+    "height" : 1157
+  }, {
+    "width" : 8418,
+    "height" : 2314
+  }, {
+    "width" : 16836,
+    "height" : 4627
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 16836,
+  "@id" : "https://portulans.github.io/iiif/Phare_Kéréon_-_boiserie_du_vestibule_1914",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4627
+}
