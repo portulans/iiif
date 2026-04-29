@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 181,
+    "height" : 147
+  }, {
+    "width" : 362,
+    "height" : 294
+  }, {
+    "width" : 723,
+    "height" : 587
+  }, {
+    "width" : 1446,
+    "height" : 1173
+  }, {
+    "width" : 2891,
+    "height" : 2345
+  }, {
+    "width" : 5781,
+    "height" : 4689
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 5781,
+  "@id" : "https://portulans.github.io/iiif/1813__ouessant_maison_de_police__FRAD029_2O_02297_01_01",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4689
+}
