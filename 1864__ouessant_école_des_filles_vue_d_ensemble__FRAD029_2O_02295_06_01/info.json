@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 188,
+    "height" : 136
+  }, {
+    "width" : 375,
+    "height" : 271
+  }, {
+    "width" : 750,
+    "height" : 542
+  }, {
+    "width" : 1500,
+    "height" : 1084
+  }, {
+    "width" : 3000,
+    "height" : 2168
+  }, {
+    "width" : 6000,
+    "height" : 4336
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 6000,
+  "@id" : "https://portulans.github.io/iiif/1864__ouessant_école_des_filles_vue_d_ensemble__FRAD029_2O_02295_06_01",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4336
+}
