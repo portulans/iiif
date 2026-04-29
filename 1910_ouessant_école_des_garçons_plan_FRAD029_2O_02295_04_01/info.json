@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 114,
+    "height" : 75
+  }, {
+    "width" : 227,
+    "height" : 149
+  }, {
+    "width" : 454,
+    "height" : 298
+  }, {
+    "width" : 907,
+    "height" : 596
+  }, {
+    "width" : 1813,
+    "height" : 1191
+  }, {
+    "width" : 3625,
+    "height" : 2381
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3625,
+  "@id" : "https://portulans.github.io/iiif/1910_ouessant_école_des_garçons_plan_FRAD029_2O_02295_04_01",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2381
+}
