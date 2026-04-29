@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 172,
+    "height" : 105
+  }, {
+    "width" : 344,
+    "height" : 210
+  }, {
+    "width" : 688,
+    "height" : 419
+  }, {
+    "width" : 1375,
+    "height" : 838
+  }, {
+    "width" : 2750,
+    "height" : 1675
+  }, {
+    "width" : 5500,
+    "height" : 3349
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 5500,
+  "@id" : "https://portulans.github.io/iiif/1678-1704_Gerard_von_Keulen_Carte_de_l'ouest_de_la_Bretagne",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3349
+}
