@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 110,
+    "height" : 74
+  }, {
+    "width" : 219,
+    "height" : 147
+  }, {
+    "width" : 437,
+    "height" : 293
+  }, {
+    "width" : 874,
+    "height" : 585
+  }, {
+    "width" : 1747,
+    "height" : 1170
+  }, {
+    "width" : 3494,
+    "height" : 2339
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3494,
+  "@id" : "https://portulans.github.io/iiif/1883__ouessant_cimetière__FRAD029_2O_02300_01_02_01",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2339
+}

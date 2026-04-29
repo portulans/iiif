@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 124,
+    "height" : 163
+  }, {
+    "width" : 248,
+    "height" : 325
+  }, {
+    "width" : 495,
+    "height" : 649
+  }, {
+    "width" : 990,
+    "height" : 1298
+  }, {
+    "width" : 1979,
+    "height" : 2595
+  }, {
+    "width" : 3957,
+    "height" : 5190
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3957,
+  "@id" : "https://portulans.github.io/iiif/1859__ouessant_école_des_graçons_cour__FRAD029_2O_02295_01_01",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 5190
+}
