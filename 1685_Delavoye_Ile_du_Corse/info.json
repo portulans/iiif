@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 21,
+    "height" : 16
+  }, {
+    "width" : 42,
+    "height" : 32
+  }, {
+    "width" : 84,
+    "height" : 64
+  }, {
+    "width" : 167,
+    "height" : 128
+  }, {
+    "width" : 333,
+    "height" : 256
+  }, {
+    "width" : 666,
+    "height" : 512
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 666,
+  "@id" : "https://portulans.github.io/iiif/1685_Delavoye_Ile_du_Corse",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 512
+}
