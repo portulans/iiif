@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 651,
-  "@id" : "https://portulans.github.io/iiif/1763_SHD_Plan_Phare_du_Stiff",
+  "@id" : "https://portulans.github.io/iiif/1736_SHD_Plan_Phare_du_Stiff",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 512
 }
