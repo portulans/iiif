@@ -1,0 +1,41 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 256, 128, 64, 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 10,
+    "height" : 13
+  }, {
+    "width" : 20,
+    "height" : 25
+  }, {
+    "width" : 40,
+    "height" : 50
+  }, {
+    "width" : 79,
+    "height" : 100
+  }, {
+    "width" : 157,
+    "height" : 199
+  }, {
+    "width" : 314,
+    "height" : 397
+  }, {
+    "width" : 627,
+    "height" : 794
+  }, {
+    "width" : 1254,
+    "height" : 1588
+  }, {
+    "width" : 2508,
+    "height" : 3176
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2508,
+  "@id" : "https://portulans.github.io/iiif/1857_Eglise/Plan_façade",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3176
+}

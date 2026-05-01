@@ -1,0 +1,41 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 256, 128, 64, 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 13,
+    "height" : 11
+  }, {
+    "width" : 26,
+    "height" : 21
+  }, {
+    "width" : 52,
+    "height" : 41
+  }, {
+    "width" : 103,
+    "height" : 81
+  }, {
+    "width" : 206,
+    "height" : 162
+  }, {
+    "width" : 412,
+    "height" : 323
+  }, {
+    "width" : 824,
+    "height" : 646
+  }, {
+    "width" : 1648,
+    "height" : 1292
+  }, {
+    "width" : 3296,
+    "height" : 2584
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3296,
+  "@id" : "https://portulans.github.io/iiif/1857_Eglise/Plan_cote_int",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2584
+}

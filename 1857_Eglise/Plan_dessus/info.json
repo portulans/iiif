@@ -1,0 +1,41 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 256, 128, 64, 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 11,
+    "height" : 14
+  }, {
+    "width" : 21,
+    "height" : 27
+  }, {
+    "width" : 41,
+    "height" : 54
+  }, {
+    "width" : 81,
+    "height" : 108
+  }, {
+    "width" : 162,
+    "height" : 216
+  }, {
+    "width" : 324,
+    "height" : 432
+  }, {
+    "width" : 648,
+    "height" : 864
+  }, {
+    "width" : 1296,
+    "height" : 1728
+  }, {
+    "width" : 2592,
+    "height" : 3456
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2592,
+  "@id" : "https://portulans.github.io/iiif/1857_Eglise/Plan_dessus",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3456
+}
